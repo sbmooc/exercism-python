@@ -1,0 +1,4 @@
+[
+  "word_count_test.py::WordCountTests::test_count_one_word",
+  "word_count_test.py::WordCountTests::test_ignores_punctuation"
+]
